@@ -8,12 +8,13 @@
 </head>
 <body>
   <div id="app">Cargando documentación...</div>
-  <script>
-    window.$docsify = {
-      name: 'Mi Proyecto con Docsify',
-      repo: ''
-    }
-  </script>
+<script>
+  window.$docsify = {
+    name: 'Mi Proyecto con Docsify',
+    loadSidebar: true,   <!-- Esta línea activa el menú lateral -->
+    repo: ''
+  }
+</script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
