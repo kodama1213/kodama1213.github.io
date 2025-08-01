@@ -1,5 +1,0 @@
-* [Inicio](/)
-* [Introducción](#introducción)
-* [Instalación](#instalación)
-* [Uso](#uso)
-* [Contacto](#contacto)
