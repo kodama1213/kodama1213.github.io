@@ -1,2 +1,0 @@
-* [Inicio](/)
-* [GitHub](https://github.com)
