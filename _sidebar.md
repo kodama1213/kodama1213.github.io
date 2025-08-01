@@ -1,0 +1,5 @@
+* [Inicio](/)
+* [Introducción](#introducción)
+* [Imágenes de prueba](#imágenes)
+* [PDFs de ejemplo](#pdfs)
+* [Ejemplo](/docs/ejemplo.md)

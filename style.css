@@ -1,0 +1,12 @@
+
+body {
+  font-family: Arial, sans-serif;
+}
+footer {
+  margin-top: 50px;
+  padding: 20px;
+  background-color: #f3f3f3;
+  text-align: center;
+  font-size: 14px;
+  color: #666;
+}
