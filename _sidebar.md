@@ -1,7 +1,0 @@
-* [Inicio](/)
-* [Fórmulas](secciones/formulas.md)
-* [Editor HTML](secciones/editor.md)
-* [Generador de tarjetas](secciones/generador.md)
-* [Gráficos](secciones/graficos.md)
-* [Datos PDF](secciones/pdf.md)
-* [Imágenes](secciones/imagenes.md)
