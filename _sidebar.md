@@ -1,6 +1,0 @@
-* [Inicio](/)
-* [Editor de Código](secciones/editor-codigo.md)
-* [Carga de Archivos](secciones/carga.md)
-* [PDF Viewer](secciones/pdf.md)
-* [Galería de Imágenes](secciones/imagenes.md)
-* [Math & Fórmulas](secciones/formulas.md)
